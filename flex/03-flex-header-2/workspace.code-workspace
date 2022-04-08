@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../01-flex-center"
+		},
+		{
+			"path": "../02-flex-header"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../04-flex-information"
+		},
+		{
+			"path": "../05-flex-modal"
+		},
+		{
+			"path": "../06-flex-layout"
+		},
+		{
+			"path": "../07-flex-layout-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "07-flex-layout-2"
+	}
+}

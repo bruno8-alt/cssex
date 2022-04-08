@@ -1,0 +1,18 @@
+.one, .three, .five{
+   background-color: lightpink ;   /* this is using odd value classes. */
+}
+#two{
+  color: blue;
+  font-size: 36px;
+}
+.three{
+font-size: 24px;     /* this class has additional instrucion than the other odd classes! */
+}
+#four{
+background: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+
+
+

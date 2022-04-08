@@ -1,0 +1,44 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+  border: 8px;
+
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 8px;  /*8px between the edge of the card and its content (the blue sections).*/
+  border: 1px
+}
+
+.title {
+  background: #e3f4ff;
+  font-size: 16px;
+  margin-bottom: 8px;
+  margin-top: 0px;
+  padding: 8px;  /*8px gap between each of the blue sections inside the card.*/
+}
+
+.content {
+  background: #e3f4ff;
+  margin-bottom: 8px;
+  padding: 16px;    /*The content section has 16px space on the top and bottom*/
+  padding-left: 8px;
+}
+
+.button-container {
+  background: #e3f4ff;
+  padding: 8px;     /*8px gap between each of the blue sections inside the card.*/
+  text-align: center;
+}
+
+button {
+  background: white;
+  padding: 8px 24px;  /**/
+  margin: 0px auto;
+  display: block; /*makes the button box by its own below the note*/
+}
+
+
